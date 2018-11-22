@@ -1,0 +1,18 @@
+{
+  "name": "epicdigital/feature-switch",
+  "description": "Feature switching made easy",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jonathan Bird",
+      "email": "hello@jonathanbird.com.au"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "JonathanBird\\FeatureSwitch\\": "src"
+    }
+  }
+}
